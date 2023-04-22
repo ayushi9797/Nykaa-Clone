@@ -22,3 +22,5 @@ This Project is a frontend-based collaborative project of 5 members completed in
 Basically, this site is clone of Nykka.com 
 
 
+## HOME PAGE
+![image](https://user-images.githubusercontent.com/112810259/233780876-5c00b193-1533-4890-8680-5dc4ccff5f21.png)
