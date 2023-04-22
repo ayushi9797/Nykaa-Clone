@@ -1,5 +1,8 @@
-# Crazy-magic-8774 (Project code) 
-Objective
+## Project
+
+# Crazy-magic-8774 
+
+## Objective
 This website is an E-Commerce website for beauty wellness and cosmetic products. 
 This Project is a frontend-based collaborative project of 5 members completed in the span of 5 days.
 ## Collaborators
